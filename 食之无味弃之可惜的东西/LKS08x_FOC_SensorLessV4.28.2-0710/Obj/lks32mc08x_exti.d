@@ -1,0 +1,11 @@
+.\obj\lks32mc08x_exti.o: LKS32MC08x_Periph_Driver\Source\lks32mc08x_exti.c
+.\obj\lks32mc08x_exti.o: .\LKS32MC08x_Periph_Driver\Include\lks32mc08x_exti.h
+.\obj\lks32mc08x_exti.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\lks32mc08x.h
+.\obj\lks32mc08x_exti.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\basic.h
+.\obj\lks32mc08x_exti.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\lks32mc08x_exti.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\obj\lks32mc08x_exti.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\lks32mc08x_exti.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lks32mc08x_exti.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\core_cm0.c
+.\obj\lks32mc08x_exti.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\core_cm0.h
+.\obj\lks32mc08x_exti.o: .\LKS32MC08x_Periph_Driver\Include\lks32mc08x_gpio.h

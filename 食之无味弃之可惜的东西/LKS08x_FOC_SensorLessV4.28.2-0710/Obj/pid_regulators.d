@@ -1,0 +1,11 @@
+.\obj\pid_regulators.o: Kernal_Source\PID_regulators.c
+.\obj\pid_regulators.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\basic.h
+.\obj\pid_regulators.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\pid_regulators.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\obj\pid_regulators.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\pid_regulators.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\pid_regulators.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\core_cm0.c
+.\obj\pid_regulators.o: C:\Users\12497\AppData\Local\Arm\Packs\Linko\LKS08x\1.0.5\Device\Include\core_cm0.h
+.\obj\pid_regulators.o: .\Include\MC_type.h
+.\obj\pid_regulators.o: .\Include\MC_type.h
+.\obj\pid_regulators.o: Kernal_Source\PID_regulators.h
